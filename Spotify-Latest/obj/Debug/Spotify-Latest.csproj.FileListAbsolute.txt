@@ -1,0 +1,17 @@
+C:\Users\matte\Desktop\Spotify\Spotify-Latest\bin\Debug\Spotify-Latest.exe.config
+C:\Users\matte\Desktop\Spotify\Spotify-Latest\bin\Debug\Spotify-Latest.exe
+C:\Users\matte\Desktop\Spotify\Spotify-Latest\bin\Debug\Spotify-Latest.pdb
+C:\Users\matte\Desktop\Spotify\Spotify-Latest\obj\Debug\Spotify-Latest.csproj.AssemblyReference.cache
+C:\Users\matte\Desktop\Spotify\Spotify-Latest\obj\Debug\Spotify_Latest.Form1.resources
+C:\Users\matte\Desktop\Spotify\Spotify-Latest\obj\Debug\Spotify_Latest.Properties.Resources.resources
+C:\Users\matte\Desktop\Spotify\Spotify-Latest\obj\Debug\Spotify-Latest.csproj.GenerateResource.cache
+C:\Users\matte\Desktop\Spotify\Spotify-Latest\obj\Debug\Spotify-Latest.csproj.CoreCompileInputs.cache
+C:\Users\matte\Desktop\Spotify\Spotify-Latest\obj\Debug\Spotify-Latest.exe
+C:\Users\matte\Desktop\Spotify\Spotify-Latest\obj\Debug\Spotify-Latest.pdb
+C:\Users\matte\Desktop\Spotify\Spotify-Latest\obj\Debug\Interop.WMPLib.dll
+C:\Users\matte\Desktop\Spotify\Spotify-Latest\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\matte\Desktop\Spotify\Spotify-Latest\obj\Debug\Spotify-Latest.csproj.ResolveComReference.cache
+C:\Users\matte\Desktop\Spotify\Spotify-Latest\bin\Debug\taglib-sharp.dll
+C:\Users\matte\Desktop\Spotify\Spotify-Latest\bin\Debug\Interop.WMPLib.dll
+C:\Users\matte\Desktop\Spotify\Spotify-Latest\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\matte\Desktop\Spotify\Spotify-Latest\obj\Debug\Spotify-.CAB2FC05.Up2Date
